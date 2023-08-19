@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    padding: 0;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-image: url(https://e0.pxfuel.com/wallpapers/527/155/desktop-wallpaper-i-accidentally-bunped-into-a-wall-now-am-in-the-backrooms-here-are-some.jpg);
+}
+img{
+    padding-top: 300px;
+    padding-left: 300px;
+}
